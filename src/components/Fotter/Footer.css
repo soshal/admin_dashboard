@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.one {
+   
+        font-size: 20px;
+    
+}
+
+.two {
+    font-size: 14px;
+}
+
+.one:hover {
+    
+    background-color : red; ;
+    transition: all 0.3s ease-in-out;
+}

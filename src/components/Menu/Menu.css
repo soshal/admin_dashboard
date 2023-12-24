@@ -1,0 +1,39 @@
+.menu{
+    color:aliceblue;
+    
+
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-bottom: 20px;
+    color: rgb(245, 245, 245);
+}
+    
+.title{
+    font-size: 12px;
+    font-weight: 700;
+    color: rgb(245, 245, 245);
+}
+
+.wade{
+    
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 10px;
+    color: rgb(245, 245, 245);
+    border-radius: 5px;
+}
+
+
+
+.wade:hover{
+    background-color: rgb(255, 255, 255);
+   
+}
+
+
+
